@@ -1,7 +1,8 @@
-## Title of Project
+## Search Engine for New York Times Bestsellers
 - Language: Python 
 - Group ID: 
-- 
+- Group Members: 
+- Date: 
 ## About
 - Objective 
 
